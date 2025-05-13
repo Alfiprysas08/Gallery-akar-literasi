@@ -27,10 +27,17 @@ h1 {
   margin-bottom: 40px;
 }
 
+hr {
+  border: none;
+  height: 2px;
+  background-color: #000000; /* abu terang */
+  margin: 20px 0;
+}
+
 footer {
   text-align: center;
   padding: 20px;
-  color: midnightblue;
+  color: rgb(0, 0, 0);
   background-color: #f5deb3;
 }
 
